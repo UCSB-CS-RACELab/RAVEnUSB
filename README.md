@@ -14,7 +14,7 @@ href="http://www.ftdichip.com/Support/Documents/InstallGuides/Mac_OS_X_Installat
 </li><li> Edit
 /System/Library/Extensions/FTDIUSBSerialDriver.kext/Contents/Info.plist
 and add this entry under <key>IOKitPersonalities</key>
-<code>
+<pre>
 <key>RFA-Z106-RA-PC RAVEn v2.3.21</key>
 <dict>
       <key>CFBundleIdentifier</key>
@@ -32,7 +32,7 @@ and add this entry under <key>IOKitPersonalities</key>
       <key>idVendor</key>
       <integer>1027</integer>
 </dict>
-</code>
+</pre>
 </li><li> reboot, insert USB device
 </li><li> verify that you see the device as /dev/cu.usbserial-XXX 
 for some XXX
