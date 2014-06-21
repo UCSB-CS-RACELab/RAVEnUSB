@@ -51,7 +51,7 @@ use Ctrl-A Ctrl-] to exit
 </li></ul>
 
 <p/>
-<b>Useful references:<b>
+<b>Useful references:</b>
 <br>
 <a
 href="http://www.ftdichip.com/Support/Documents/InstallGuides/Mac_OS_X_Installation_Guide.pdf">http://www.ftdichip.com/Support/Documents/InstallGuides/Mac_OS_X_Installation_Guide.pdf</a>
