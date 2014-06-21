@@ -50,7 +50,8 @@ use Ctrl-A Ctrl-] to exit
 </li><li>update serialDevice variable in raven.py with the name of device in /dev
 </li></ul>
 
-Useful references:
+<p/>
+<b>Useful references:<b>
 <br>
 <a
 href="http://www.ftdichip.com/Support/Documents/InstallGuides/Mac_OS_X_Installation_Guide.pdf">http://www.ftdichip.com/Support/Documents/InstallGuides/Mac_OS_X_Installation_Guide.pdf</a>
